@@ -1,0 +1,11 @@
+{
+    "cSpell.words": [
+        "huogui"
+    ],
+    "editor.defaultFormatter": "dbaeumer.vscode-eslint",
+    "editor.codeActionsOnSave": {
+         "source.fixAll.eslint": true
+    },
+    "prettier.enable": false,
+    "editor.formatOnSave": true,
+}
